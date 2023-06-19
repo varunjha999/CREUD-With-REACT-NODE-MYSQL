@@ -2,15 +2,16 @@
 
 1 . setup database in sql server 
 2. create database 
+3. setup frontend and backend folder
 
 
 # Clone this project 
 
-git clone - repo url 
+git clone https://github.com/varunjha999/CREUD-With-REACT-NODE-MYSQL
 
 install dependency in react and node folder 
 
-
+0. create database and connect in backend-frontend
 1. npm i 
 2. npm start 
 
